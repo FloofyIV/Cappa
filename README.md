@@ -1,5 +1,5 @@
 # Cappa
-An open-source RoL (Roblox on Linux) fps unlocker.
+An open-source CLI RoL (Roblox on Linux) fps unlocker.
 
 # This program modifies Robloxs memory, use at your own risk.
 
