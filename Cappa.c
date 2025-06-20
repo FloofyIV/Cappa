@@ -11,8 +11,9 @@
 #include <pthread.h>
 #include <sys/mman.h>
 #include <sys/time.h>
-#include <malloc.h>  // For malloc_trim
+#include <malloc.h>
 
+// I accidentally deleted all the comments, whoopsie!! 🥰
 
 #define RBLXNAME "Main"
 #define MAX_REGIONS 512
@@ -24,7 +25,7 @@ struct region {
     unsigned long end;
 };
 
-pid_t findproc(const char *proc_name, int scans) {            // we could probably find a more reliable
+pid_t findproc(const char *proc_name, int scans) {
     DIR *dir = opendir("/proc/");
     if (!dir) return -1;
 
