@@ -1,7 +1,8 @@
 # Cappa
 An open-source RoL (Roblox on Linux) fps unlocker.
 
-# This program both reads & writes to Robloxs memory. use at your own risk.
+# This program both reads & writes to Robloxs memory.
+# use at your own risk.
 
 # Usage
 #1: Set your fps cap in your sober config to a highly specific number. ex: "DFIntTaskSchedulerTargetFps": "3276743"
