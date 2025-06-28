@@ -13,7 +13,7 @@
 #include <sys/time.h>
 #include <malloc.h>
 
-// I accidentally deleted all the comments, whoopsie!! 🥰
+// Feel free to add back the comments I deleted by accident 🔥
 
 #define RBLXNAME "Main"
 #define MAX_REGIONS 512
